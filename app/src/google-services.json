@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126452401773",
+    "project_id": "firestore-62318",
+    "storage_bucket": "firestore-62318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126452401773:android:26498696c4610c2490a164",
+        "android_client_info": {
+          "package_name": "com.pujitha.projectfile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126452401773-n1rt3ssi8e2931if888fhq1aaont2e2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNDfkLEoWmUmAP59nVMTTusEh7wD71iCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126452401773-n1rt3ssi8e2931if888fhq1aaont2e2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
